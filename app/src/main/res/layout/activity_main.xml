@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorAccent"
-    tools:context="com.example.mohamed_abdelsamad.udacityapp1.MainActivity">
+    tools:context="com.example.mohamed_abdelsamad.udacitysinglescreenapp.MainActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -108,18 +108,17 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
+                android:orientation="vertical">
 
-                >
                 <TextView
                     android:id="@+id/description"
-                    android:padding="2dp"
-                    android:layout_margin="8dp"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
+                    android:layout_margin="8dp"
                     android:layout_weight="1"
+                    android:padding="2dp"
                     android:text="@string/restaurant_offers_a_range_of_delicious_american_food_to_their_customers_they_regularly_serve_breakfast_lunch_and_dinner_at_a_great_price"
-                    android:textSize="20dp"/>
+                    android:textSize="20sp" />
             </LinearLayout>
 
         </LinearLayout>
