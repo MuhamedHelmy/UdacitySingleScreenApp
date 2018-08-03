@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Imagehight">200dp</dimen>
+    <dimen name="Layoutmargin">8dp</dimen>
+    <dimen name="Imagepadding">16dp</dimen>
+    <dimen name="phonemarginleft">24dp</dimen>
+    <dimen name="phonemarginestart">24dp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="imagelayoutleft">12dp</dimen>
+    <dimen name="imagelayoutstart">12dp</dimen>
+    <dimen name="textlayout">32dp</dimen>
+    <dimen name="locationwidth">35dp</dimen>
+    <dimen name="locationhight">25dp</dimen>
+    <dimen name="infotextsize">20sp</dimen>
+</resources>
